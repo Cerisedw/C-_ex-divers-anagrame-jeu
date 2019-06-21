@@ -1,0 +1,7 @@
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Suite_exercices\bin\Debug\Suite_exercices.exe.config
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Suite_exercices\bin\Debug\Suite_exercices.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Suite_exercices\bin\Debug\Suite_exercices.pdb
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Suite_exercices\obj\Debug\Suite_exercices.csprojAssemblyReference.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Suite_exercices\obj\Debug\Suite_exercices.csproj.CoreCompileInputs.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Suite_exercices\obj\Debug\Suite_exercices.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Suite_exercices\obj\Debug\Suite_exercices.pdb

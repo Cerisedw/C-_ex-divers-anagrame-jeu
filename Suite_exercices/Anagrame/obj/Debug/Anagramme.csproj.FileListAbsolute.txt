@@ -1,0 +1,7 @@
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Anagrame\bin\Debug\Anagrame.exe.config
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Anagrame\bin\Debug\Anagrame.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Anagrame\bin\Debug\Anagrame.pdb
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Anagrame\obj\Debug\Anagramme.csprojAssemblyReference.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Anagrame\obj\Debug\Anagramme.csproj.CoreCompileInputs.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Anagrame\obj\Debug\Anagrame.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\Suite_exercices\Anagrame\obj\Debug\Anagrame.pdb
