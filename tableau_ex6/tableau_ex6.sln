@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tableau_ex6", "tableau_ex6\tableau_ex6.csproj", "{29FF1C6E-F7EC-47A5-B7F6-6A37BA10020E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FF1C6E-F7EC-47A5-B7F6-6A37BA10020E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FF1C6E-F7EC-47A5-B7F6-6A37BA10020E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FF1C6E-F7EC-47A5-B7F6-6A37BA10020E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FF1C6E-F7EC-47A5-B7F6-6A37BA10020E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF68437D-0DED-4601-817A-C1980DF52043}
+	EndGlobalSection
+EndGlobal

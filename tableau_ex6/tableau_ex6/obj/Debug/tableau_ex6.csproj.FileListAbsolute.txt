@@ -1,0 +1,14 @@
+C:\Users\c.wannemaeker\Desktop\source\repos\tableau_ex6\tableau_ex6\bin\Debug\tableau_ex6.exe.config
+C:\Users\c.wannemaeker\Desktop\source\repos\tableau_ex6\tableau_ex6\bin\Debug\tableau_ex6.exe
+C:\Users\c.wannemaeker\Desktop\source\repos\tableau_ex6\tableau_ex6\bin\Debug\tableau_ex6.pdb
+C:\Users\c.wannemaeker\Desktop\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.csprojAssemblyReference.cache
+C:\Users\c.wannemaeker\Desktop\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.csproj.CoreCompileInputs.cache
+C:\Users\c.wannemaeker\Desktop\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.exe
+C:\Users\c.wannemaeker\Desktop\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.pdb
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\tableau_ex6\tableau_ex6\bin\Debug\tableau_ex6.exe.config
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\tableau_ex6\tableau_ex6\bin\Debug\tableau_ex6.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\tableau_ex6\tableau_ex6\bin\Debug\tableau_ex6.pdb
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.csprojAssemblyReference.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.csproj.CoreCompileInputs.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\tableau_ex6\tableau_ex6\obj\Debug\tableau_ex6.pdb
