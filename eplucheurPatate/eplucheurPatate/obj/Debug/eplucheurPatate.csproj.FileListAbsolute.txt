@@ -1,0 +1,7 @@
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\eplucheurPatate\eplucheurPatate\bin\Debug\eplucheurPatate.exe.config
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\eplucheurPatate\eplucheurPatate\bin\Debug\eplucheurPatate.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\eplucheurPatate\eplucheurPatate\bin\Debug\eplucheurPatate.pdb
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\eplucheurPatate\eplucheurPatate\obj\Debug\eplucheurPatate.csprojAssemblyReference.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\eplucheurPatate\eplucheurPatate\obj\Debug\eplucheurPatate.csproj.CoreCompileInputs.cache
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\eplucheurPatate\eplucheurPatate\obj\Debug\eplucheurPatate.exe
+C:\Users\c.wannemaeker\OneDrive - Interface3\source\repos\eplucheurPatate\eplucheurPatate\obj\Debug\eplucheurPatate.pdb
